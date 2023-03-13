@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bezier curve", "bezier curve\bezier curve.pyproj", "{EB2BEF7B-99E5-40F4-8AB7-BA23F5749BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2BEF7B-99E5-40F4-8AB7-BA23F5749BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2BEF7B-99E5-40F4-8AB7-BA23F5749BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A51069C2-7268-498D-9661-0B5EA278B1F5}
+	EndGlobalSection
+EndGlobal
